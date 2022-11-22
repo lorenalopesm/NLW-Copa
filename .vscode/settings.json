@@ -1,5 +1,4 @@
 {
-  // editor
   "editor.wordWrap": "on",
   "editor.fontSize": 18,
   "editor.lineHeight": 30,
@@ -10,22 +9,18 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
 
-  // explorer
   "explorer.compactFolders": false,
 
-  // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Omni",
 
-  // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.enable": true,
   "prettier.singleQuote": false,
   "prettier.tabWidth": 2,
   "prettier.semi": false,
 
-  // terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.profiles.windows": {
     "Git Bash": {
