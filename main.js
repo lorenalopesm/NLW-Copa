@@ -27,9 +27,8 @@ function createCard(date, day, games) {
   </div>
   `
 }
-
 function changeTheme() {
-  document.body.classList.toggle("blue")0
+  document.body.classList.toggle("blue")
 }
 
 document.querySelector("#cards").innerHTML =
